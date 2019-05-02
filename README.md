@@ -49,25 +49,25 @@
 * [一文弄懂二叉树三种遍历](https://cxyxiaowu.com/articles/2019/04/04/1554345077929.html)
 * [数据结构与算法之「平衡二叉树（AVL）」](https://cxyxiaowu.com/articles/2019/04/04/1554345441078.html)
 * [数据结构与算法之「Trie 树」](https://cxyxiaowu.com/articles/2019/04/04/1554345200705.html)
-* [看动画理解「链表」实现LRU缓存淘汰算法](https://cxyxiaowu.com/articles/2019/04/04/1554345296887.html)
-* [详解二分搜索树](https://cxyxiaowu.com/articles/2019/04/04/1554345007588.html)
 * [做出这道题，说明你很有机会进入 Google](https://cxyxiaowu.com/articles/2019/04/04/1554345541522.html)
-* [数据结构与算法之「霍夫曼编码」](https://cxyxiaowu.com/articles/2019/04/04/1554345797347.html)
+* [详解二分搜索树](https://cxyxiaowu.com/articles/2019/04/04/1554345007588.html)
+* [看动画理解「链表」实现LRU缓存淘汰算法](https://cxyxiaowu.com/articles/2019/04/04/1554345296887.html)
+* [啥是佩奇排名算法](https://cxyxiaowu.com/articles/2019/04/04/1554345464060.html)
 
 ### 热议
 
-* [知否？知否？情人眼里出代码](https://cxyxiaowu.com/articles/2019/04/04/1554345559439.html)
-* [啥是佩奇排名算法](https://cxyxiaowu.com/articles/2019/04/04/1554345464060.html)
-* [看动画轻松理解时间复杂度（二）](https://cxyxiaowu.com/articles/2019/04/04/1554345130826.html)
-* [数据结构与算法之「霍夫曼编码」](https://cxyxiaowu.com/articles/2019/04/04/1554345591851.html)
-* [生活中用过的那些高级算法知识](https://cxyxiaowu.com/articles/2019/04/04/1554345404291.html)
 * [在数据结构中穿针引线：链表实现栈和队列](https://cxyxiaowu.com/articles/2019/04/04/1554344924081.html)
+* [数据结构与算法之「堆」](https://cxyxiaowu.com/articles/2019/04/04/1554345169921.html)
 * [冰与火之歌：一文弄懂时间复杂度与空间复杂度](https://cxyxiaowu.com/articles/2019/04/04/1554345342924.html)
 * [动画：什么是鸡尾酒排序和地精排序？](https://cxyxiaowu.com/articles/2019/04/04/1554345523153.html)
 * [看动画轻松理解时间复杂度](https://cxyxiaowu.com/articles/2019/04/04/1554345100970.html)
+* [生活中用过的那些高级算法知识](https://cxyxiaowu.com/articles/2019/04/04/1554345404291.html)
 * [数据结构与算法之「2-3树」](https://cxyxiaowu.com/articles/2019/04/04/1554345688230.html)
-* [数据结构与算法之「堆」](https://cxyxiaowu.com/articles/2019/04/04/1554345169921.html)
+* [知否？知否？情人眼里出代码](https://cxyxiaowu.com/articles/2019/04/04/1554345559439.html)
+* [数据结构与算法之「霍夫曼编码」](https://cxyxiaowu.com/articles/2019/04/04/1554345797347.html)
+* [数据结构与算法之「霍夫曼编码」](https://cxyxiaowu.com/articles/2019/04/04/1554345591851.html)
 * [从简单的线性数据结构开始：栈与队列](https://cxyxiaowu.com/articles/2019/04/04/1554344961783.html)
+* [看动画轻松理解时间复杂度（二）](https://cxyxiaowu.com/articles/2019/04/04/1554345130826.html)
 
 ---
 
