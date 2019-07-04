@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [写了一个小程序，或许能更加方便的学习算法](https://cxyxiaowu.com/articles/2019/07/04/1562212211528.html)
 * [这或许是东半球讲十大排序算法最好的一篇文章](https://cxyxiaowu.com/articles/2019/06/11/1560233679033.html)
 * [毕业十年后，我忍不住出了一份程序员的高考试卷](https://cxyxiaowu.com/articles/2019/06/10/1560131227590.html)
 * [什么是漂亮排序算法：一顿操作很装逼，一看性能二点七](https://cxyxiaowu.com/articles/2019/06/04/1559629030085.html)
@@ -29,7 +30,6 @@
 * [LeetCode 第 350 号问题：两个数组的交集 II](https://cxyxiaowu.com/articles/2019/05/02/1556786659226.html)
 * [LeetCode 第 447 号问题：回旋镖的数量](https://cxyxiaowu.com/articles/2019/05/02/1556786659017.html)
 * [LeetCode 第 146 号问题：LRU缓存机制](https://cxyxiaowu.com/articles/2019/05/02/1556786658813.html)
-* [LeetCode 第 279 号问题：完全平方数](https://cxyxiaowu.com/articles/2019/05/02/1556786658607.html)
 
 ### 热门
 
@@ -58,24 +58,24 @@
 
 * [面试官，我会写二分查找法！对，没有 bug 的那种！](https://cxyxiaowu.com/articles/2019/04/30/1556588055143.html)
 * [LeetCode 第 877 号问题：石子游戏](https://cxyxiaowu.com/articles/2019/05/02/1556786653110.html)
-* [LeetCode 第 26 号问题：删除排序数组中的重复项](https://cxyxiaowu.com/articles/2019/05/02/1556786657195.html)
-* [一道腾讯面试题：厉害了我的杯](https://cxyxiaowu.com/articles/2019/04/04/1554345379337.html)
-* [LeetCode 第 445 号问题：两数相加 II](https://cxyxiaowu.com/articles/2019/05/02/1556786655035.html)
-* [LeetCode 第 219 号问题：存在重复元素 II](https://cxyxiaowu.com/articles/2019/05/02/1556786650201.html)
-* [冰与火之歌：一文弄懂时间复杂度与空间复杂度](https://cxyxiaowu.com/articles/2019/04/04/1554345342924.html)
-* [从简单的线性数据结构开始：栈与队列](https://cxyxiaowu.com/articles/2019/04/04/1554344961783.html)
-* [几道和「黑洞照片」那种海量数据有关的算法问题](https://cxyxiaowu.com/articles/2019/04/11/1554963765366.html)
-* [生活中用过的那些高级算法知识](https://cxyxiaowu.com/articles/2019/04/04/1554345404291.html)
-* [看动画轻松理解时间复杂度](https://cxyxiaowu.com/articles/2019/04/04/1554345100970.html)
-* [数据结构与算法之「游程编码」](https://cxyxiaowu.com/articles/2019/04/04/1554345832785.html)
-* [剑指 offer 第六十题： 数据流的中位数](https://cxyxiaowu.com/articles/2019/04/15/1555290231551.html)
-* [LeetCode 第 125 号问题：验证回文串](https://cxyxiaowu.com/articles/2019/05/02/1556786654811.html)
-* [LeetCode 第 15 号问题：三数之和](https://cxyxiaowu.com/articles/2019/05/02/1556786656996.html)
-* [几道和「链表」有关的面试题](https://cxyxiaowu.com/articles/2019/04/04/1554346134716.html)
-* [LeetCode 第 239 号问题：滑动窗口最大值](https://cxyxiaowu.com/articles/2019/05/02/1556786656176.html)
+* [LeetCode 第 75 号问题：颜色分类](https://cxyxiaowu.com/articles/2019/05/02/1556786657812.html)
+* [LeetCode 第 349 号问题：两个数组的交集](https://cxyxiaowu.com/articles/2019/05/02/1556786650433.html)
+* [LeetCode 第 102 号问题：二叉树的层序遍历](https://cxyxiaowu.com/articles/2019/05/02/1556786655524.html)
+* [LeetCode 第 326 号问题：3的幂](https://cxyxiaowu.com/articles/2019/05/02/1556786655747.html)
+* [LeetCode 第 3 号问题：无重复字符的最长子串](https://cxyxiaowu.com/articles/2019/05/02/1556786656793.html)
+* [数据结构与算法之「平衡二叉树（AVL）」](https://cxyxiaowu.com/articles/2019/04/04/1554345441078.html)
+* [LeetCode 第 206 号问题：反转链表](https://cxyxiaowu.com/articles/2019/05/02/1556786658024.html)
+* [数据结构与算法之「2-3-4树」](https://cxyxiaowu.com/articles/2019/04/04/1554345760505.html)
+* [30 个跟程序猿有关的成语](https://cxyxiaowu.com/articles/2019/04/04/1554345905587.html)
+* [详解二分搜索树](https://cxyxiaowu.com/articles/2019/04/04/1554345007588.html)
+* [数据结构与算法之「2-3树」](https://cxyxiaowu.com/articles/2019/04/04/1554345688230.html)
+* [LeetCode 第 642 号问题：设计一个搜索自动完成系统](https://cxyxiaowu.com/articles/2019/05/02/1556786653746.html)
+* [一道让你拍案叫绝的算法题](https://cxyxiaowu.com/articles/2019/04/04/1554345488302.html)
+* [LeetCode 第 203 号问题：移除链表元素](https://cxyxiaowu.com/articles/2019/05/02/1556786652319.html)
+* [LeetCode 第 344 号问题：反转字符串](https://cxyxiaowu.com/articles/2019/05/02/1556786653319.html)
+* [剑指 offer 第三题： 从尾到头打印链表](https://cxyxiaowu.com/articles/2019/04/04/1554346046750.html)
+* [在数据结构中穿针引线：链表实现栈和队列](https://cxyxiaowu.com/articles/2019/04/04/1554344924081.html)
 * [LeetCode 第 187 号问题：重复的 DNA 序列](https://cxyxiaowu.com/articles/2019/05/02/1556786652584.html)
-* [LeetCode 第 19 号问题：删除链表的倒数第 N 个节点](https://cxyxiaowu.com/articles/2019/05/02/1556786655969.html)
-* [看动画理解「链表」实现LRU缓存淘汰算法](https://cxyxiaowu.com/articles/2019/04/04/1554345296887.html)
 
 ---
 
